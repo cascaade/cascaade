@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hello there
+I'm a person in the universe.
+
+### 🪣 My programming bucket list:
+1. Build a computer vision neural network
+2. Build a minimalistic clock app
+3. Simulate a swerve drive base
+4. Learn about LLM's and MLP's
 
 <!--
 **cascaade/cascaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
