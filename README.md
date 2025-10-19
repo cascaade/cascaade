@@ -1,5 +1,5 @@
 ## 👋 Hello there
-I'm a person in the universe.
+UI design is yummy.
 
 ### 🪣 My programming bucket list:
 1. Build a computer vision neural network
