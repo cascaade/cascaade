@@ -1,9 +1,5 @@
 ## 👋 Hello there
 
-### 🪣 My programming bucket list:
-1. Build a computer vision neural network
-2. Learn about LLM's and MLP's
-
 <!--
 **cascaade/cascaade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
